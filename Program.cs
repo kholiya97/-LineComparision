@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LineComparision
 {
-    class LineGreaterOrLess
+    class Program
     {
       public static void UC3()
         {
