@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LineComparision
 {
-    class LengthOfTwoLine
+    class Program
     {
         public static void UC2()
         {
